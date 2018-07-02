@@ -68,9 +68,7 @@
             </thead>
             </table>
             <transition-group name="flip-list" tag='table' >
-            <tbody id="tbody" v-for="(team, index) in soccerTeams" v-bind:key="team.id">
-              
-              
+            <tbody id="tbody" v-for="(team, index) in soccerTeams" v-bind:key="team.id">                            
                 <row
                   :name="team.name"
                   :mp="team.mp"
@@ -81,9 +79,7 @@
                   :ga="team.ga"
                   :gd="team.gd"
                   :pts="team.pts"
-                />
-             
-            
+                />                         
             </tbody>
           </transition-group>
           
