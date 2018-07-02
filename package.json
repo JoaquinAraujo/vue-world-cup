@@ -1,0 +1,22 @@
+{
+  "name": "vue-world-cup",
+  "version": "1.0.0",
+  "description": "A Vue Proyect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgonzalezp91/vue-world-cup.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "Carlos Gonzalez (https://www.linkedin.com/in/cgonzalezp91/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cgonzalezp91/vue-world-cup/issues"
+  },
+  "homepage": "https://github.com/cgonzalezp91/vue-world-cup#readme"
+}
