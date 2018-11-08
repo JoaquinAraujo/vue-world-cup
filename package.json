@@ -1,0 +1,14 @@
+{
+  "name": "vue-world-cup",
+  "version": "1.0.0",
+  "description": "Exercise organized by the teams of group A of the FIFA World Cup Russia 2018 according to their PTS, GA and GF with Vue.js ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "Joaquin Araujo",
+  "license": "MIT"
+}
